@@ -23,3 +23,15 @@ Hasil Screenshot dari praktikum ini
 Hasil Screenshot dari praktikum ini
 
 ![Screenshot](images/praktikum4.png)
+
+## Praktikum 5: Menyimpan Data JSON di File
+
+Hasil Screenshot dari praktikum ini
+a. Menyimpan data JSON di file
+
+![Screenshot](images/praktikum5.1.png)
+
+b. Menghapus data JSON dari file
+
+![Screenshot](images/praktikum5.2.png)
+
