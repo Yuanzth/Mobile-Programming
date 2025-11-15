@@ -1,16 +1,19 @@
-# jobsheet_json
+Laporan Praktikum Jobsheet Dart
 
-A new Flutter project.
+## Praktikum 1 - JSON Dart Konversi Model Dart ke JSON
 
-## Getting Started
+Hasil Screenshot dari praktikum ini
 
-This project is a starting point for a Flutter application.
+![Screenshot](images/praktikum1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 2: Menangani JSON yang Tidak Kompatibel
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hasil Screenshot dari praktikum ini
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](images/praktikum2.png)
+
+## Praktikum 3: Penanganan Error di JSON
+
+Hasil Screenshot dari praktikum ini
+
+![Screenshot](images/praktikum3.png)
