@@ -55,3 +55,9 @@ d. Tampilan list catatan
 e. Tampilan setelah salah satu catatan dihapus
 
 ![Screenshot](images/praktikum6.5.png)
+
+## Praktikum 7: Menyimpan Data JSON di File contoh Encryption
+
+Hasil Screenshot dari praktikum ini
+
+![Screenshot](images/praktikum7.png)
