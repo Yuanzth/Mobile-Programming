@@ -72,3 +72,8 @@ Wiremock Cloud: https://q63me.wiremockapi.cloud
 
 ![Screenshot](images/praktikum8.2.png)
 
+## Praktikum 9: Menggunakan REST API PokeAPI
+
+Hasil Screenshot dari praktikum ini
+
+![Screenshot](images/praktikum9.1.png)
