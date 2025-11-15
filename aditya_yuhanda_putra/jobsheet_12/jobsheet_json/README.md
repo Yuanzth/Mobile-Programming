@@ -61,3 +61,14 @@ e. Tampilan setelah salah satu catatan dihapus
 Hasil Screenshot dari praktikum ini
 
 ![Screenshot](images/praktikum7.png)
+
+## Praktikum 8: Fake REST API dengan WireMock Cloud
+
+Hasil Screenshot dari praktikum ini
+
+![Screenshot](images/praktikum8.1.png)
+
+Wiremock Cloud: https://q63me.wiremockapi.cloud
+
+![Screenshot](images/praktikum8.2.png)
+
