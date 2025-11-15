@@ -17,3 +17,9 @@ Hasil Screenshot dari praktikum ini
 Hasil Screenshot dari praktikum ini
 
 ![Screenshot](images/praktikum3.png)
+
+## Praktikum 4: Menyimpan Data JSON di SharedPreferences
+
+Hasil Screenshot dari praktikum ini
+
+![Screenshot](images/praktikum4.png)
