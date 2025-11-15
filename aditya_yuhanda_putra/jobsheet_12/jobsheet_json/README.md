@@ -35,3 +35,23 @@ b. Menghapus data JSON dari file
 
 ![Screenshot](images/praktikum5.2.png)
 
+## Praktikum 6: Menyimpan Data JSON di File contoh Notes
+a. Tampilan awal tidak ada catatan
+
+![Screenshot](images/praktikum6.1.png)
+
+b. Tampilan tambah catatan baru
+
+![Screenshot](images/praktikum6.2.png)
+
+c. Tampilan mengisi detail catatan
+
+![Screenshot](images/praktikum6.3.png)
+
+d. Tampilan list catatan
+
+![Screenshot](images/praktikum6.4.png)
+
+e. Tampilan setelah salah satu catatan dihapus
+
+![Screenshot](images/praktikum6.5.png)
